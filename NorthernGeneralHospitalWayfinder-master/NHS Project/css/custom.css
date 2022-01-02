@@ -1,0 +1,116 @@
+.container-fluid {
+  align-content: center;
+	width: 100%;
+}
+body {
+	font-family : "Arial", "helvatica", sans-serif;
+	width: 100%;
+	background-color: #005eb8;
+	font-size: 25px;
+  	/*margin:5px;*/
+}
+header {
+	width:85%;
+	padding: 10px;
+	margin: 10px;
+	background-color: #005eb8;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+header>img {
+	width: 50%;
+	height: 18%;
+}
+.headerText {
+	width: 50%;
+	height:18%;
+	text-align: center;
+	color: #fff;
+}
+h1 {
+  font-size: 50px;
+  font-size: 4.5vw;
+}
+
+.qrcode-text {
+  padding-right: 1.7em;
+  margin-right: 0;
+  vertical-align: middle;
+}
+.qrcode-text-btn {
+  display: inline-block;
+  height: 2em;
+  width: 2em;
+  background: url("http://homepages.shu.ac.uk/~b6008661/NHS%20Project/images/qr_icon.svg") 50% 50% no-repeat;
+  cursor: pointer;
+}
+.qrcode-text-btn > input[type=file] {
+  position: absolute;
+  overflow: hidden;
+  width: 2px;
+  height: 2px;
+  opacity: 0;
+}
+.qrcode-text + .qrcode-text-btn {
+  width: 1.7em;
+  margin-left: -1.7em;
+  vertical-align: middle;
+}
+.col-sm-4{
+	background-color: #ffffff;
+  text-align: center;
+  border: 5px solid #005eb8;
+}
+.row {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+h2 {
+	text-align: center;
+	color: #005eb8;
+	font-size: 120%;
+	padding: 0px;
+}
+input[type=checkbox] {
+	width: 20px;
+	height: 20px;
+	text-align: center;
+}
+#dropdownboxstart {
+	min-width: 90%;
+	text-align: center;
+	font-size: 15px;
+	height: auto;
+}
+#dropdownboxend {
+	min-width: 90%;
+	text-align: center;
+	font-size: 15px;
+	height: auto;
+}
+#cantor3{
+	position: relative;
+	background-color: #ffffff;
+  text-align: center;
+  border: 5px solid #005eb8;
+	width: 40%;
+	height: 50%;
+}
+.col-sm-12 {
+background-color: #ffffff;
+ text-align: center;
+ border: 5px solid #005eb8;
+}
+
+.door {
+	height: 5px;
+	width: 5px;
+	background-color: 555;
+}
+
+#directionBox{
+	font-size: 20px;
+	text-align: left;
+}

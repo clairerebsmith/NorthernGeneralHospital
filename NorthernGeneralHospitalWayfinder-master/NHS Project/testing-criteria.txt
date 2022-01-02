@@ -1,0 +1,9 @@
+1. disabled people are directed to elevators opposed to stairs
+2. map will navigate to the closest facility (e.g. closest toilet or closest canteen)
+3. path is able to be routed across multiple floors
+4. path is able to be routed between none consecutive floors (e.g. floor 1 to 3)
+5. starting location and destination can not be the same
+6. saving the start location works on all devices
+7. map is correctly scaled and usable on all devices
+8. labels on maps are consistent
+9. 

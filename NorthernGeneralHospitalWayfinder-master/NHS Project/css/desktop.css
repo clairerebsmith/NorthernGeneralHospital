@@ -1,0 +1,36 @@
+.container {
+	display:flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  background-color: #005eb8;
+  height: 100%;
+  width: 90%;
+}
+h1 {
+  font-size: 350%;
+}
+h2 {
+  font-size: 120%;
+}
+.break {
+  display: inline-block;
+}
+.box {
+  margin: 5px;
+  height: 100%;
+  width: 28%;
+}
+
+#dropdownboxstart {
+	min-width: 70%;
+	text-align: center;
+	font-size: 50%;
+	height: auto;
+}
+#dropdownboxend {
+	min-width: 70%;
+	text-align: center;
+	font-size: 50%;
+	height: auto;
+}

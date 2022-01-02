@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="cantor3" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 700" style="enable-background:new 0 0 500 700;" xml:space="preserve">
+<style type="text/css">
+	.border{fill:none;stroke:#000000;stroke-width:3;}
+	.doorway{fill:#800080;stroke:#000000;stroke-width:3;}
+	.toilet{fill:#FFFF00;stroke:#000000;stroke-width:3;}
+	.room{fill:#0000FF;stroke:#000000;stroke-width:3;}
+	.stairs{fill:#FF0000;stroke:#000000;stroke-width:3;}
+	.elevator{fill:#008000;stroke:#000000;stroke-width:3;}
+	.blocked{fill:#808080;stroke:#000000;stroke-width:3;}
+	.linedefault{fill:none;stroke:#FF0000;stroke-width:5;stroke-opacity:0;}
+	.linevisable{fill:none;stroke:#FF0000;stroke-width:5;stroke-opacity:1;}
+</style>
+<polyline class="border" points="90,30 210,30 210,120 420,120 420,180 180,180 180,210 150,210 150,270 180,270 180,330 90,330 90,30
+	"/>
+<polyline class="border" points="90,285 30,285 30,360 90,360 90,630 150,630 150,570 330,570 330,510 150,510 150,330 90,330 90,285
+	"/>
+<rect id="Door_3-4" x="95" y="325" class="doorway" width="50" height="10"/>
+<rect id="Door_3-5" x="415" y="125" class="doorway" width="10" height="50"/>
+<rect id="Door_3-7" x="325" y="515" class="doorway" width="10" height="50"/>
+<rect id="Toilet_Disabled_3-2" x="155" y="205" class="toilet" width="20" height="10"/>
+<rect id="Toilet_Women_3-2" x="175" y="185" class="toilet" width="10" height="20"/>
+<rect id="Room_3-9314" x="175" y="285" class="room" width="10" height="20"/>
+<rect id="Room_3-9315" x="85" y="250" class="room" width="10" height="20"/>
+<rect id="Room_3-9316" x="145" y="230" class="room" width="10" height="20"/>
+<rect id="Room_3-9318" x="115" y="25" class="room" width="20" height="10"/>
+<rect id="Room_3-9319" x="230" y="115" class="room" width="20" height="10"/>
+<rect id="Room_3-9320" x="270" y="175" class="room" width="20" height="10"/>
+<rect id="Room_3-9321" x="300" y="115" class="room" width="20" height="10"/>
+<rect id="Room_3-9322" x="330" y="175" class="room" width="20" height="10"/>
+<rect id="Room_3-9324" x="370" y="175" class="room" width="20" height="10"/>
+<rect id="Toilet_Men_3-2" x="290" y="565" class="toilet" width="20" height="10"/>
+<rect id="Room_3-9309" x="110" y="625" class="room" width="20" height="10"/>
+<rect id="Room_3-9310" x="85" y="550" class="room" width="10" height="20"/>
+<rect id="Stairs_3-3" x="85" y="470" class="stairs" width="10" height="50"/>
+<rect id="Elevator_3-3" x="85" y="400" class="elevator" width="10" height="50"/>
+<rect x="85" y="70" class="blocked" width="10" height="20"/>
+<rect id="Room_3-3908" x="145" y="595" class="blocked" width="10" height="20"/>
+<line id="Intersection_3-9314_TO_Door_3-5" class="linedefault" x1="120" y1="335" x2="120" y2="295"/>
+<line id="Intersection_3-9314_TO_9314" class="linedefault" x1="120" y1="295" x2="170" y2="295"/>
+<line id="Intersection_3-9315_TO_Intersection_3-9314" class="linedefault" x1="120" y1="295" x2="120" y2="260"/>
+<line id="Intersection_3-9315_TO_9315" class="linedefault" x1="120" y1="260" x2="100" y2="260"/>
+<line id="Intersection_3-9316_TO_Intersection_3-9315" class="linedefault" x1="120" y1="260" x2="120" y2="240"/>
+<line id="Intersection_3-9316_TO_9316" class="linedefault" x1="120" y1="240" x2="140" y2="240"/>
+<line id="Intersection_3-1_TO_Intersection_3-9316" class="linedefault" x1="120" y1="240" x2="120" y2="145"/>
+<line id="Intersection_3-9318_TO_Intersection_3-1" class="linedefault" x1="120" y1="145" x2="125" y2="50"/>
+<line id="Intersection_3-9318_TO_9318" class="linedefault" x1="125" y1="50" x2="125" y2="40"/>
+<line id="Intersection_3-1_TO_Toilet_Women_3-2" class="linedefault" x1="120" y1="145" x2="165" y2="195"/>
+<line id="Toilet_Women_3-2_TO_Toilet_Disabled_3-2" class="linedefault" x1="165" y1="195" x2="165" y2="200"/>
+<line id="Intersection_3-1_TO_Intersection_3-9319" class="linedefault" x1="120" y1="145" x2="240" y2="150"/>
+<line id="Intersection_3-9319_TO_9319" class="linedefault" x1="240" y1="150" x2="240" y2="130"/>
+<line id="Intersection_3-9319_TO_Intersection_3-9320" class="linedefault" x1="240" y1="150" x2="280" y2="150"/>
+<line id="Intersection_3-9320_TO_9320" class="linedefault" x1="280" y1="150" x2="280" y2="170"/>
+<line id="Intersection_3-9320_TO_Intersection_3-9321" class="linedefault" x1="280" y1="150" x2="310" y2="150"/>
+<line id="Intersection_3-9321_TO_9321" class="linedefault" x1="310" y1="150" x2="310" y2="130"/>
+<line id="Intersection_3-9321_TO_Intersection_3-9322" class="linedefault" x1="310" y1="150" x2="340" y2="150"/>
+<line id="Intersection_3-9322_TO_9322" class="linedefault" x1="340" y1="150" x2="340" y2="170"/>
+<line id="Intersection_3-9322_TO_Intersection_3-9324" class="linedefault" x1="340" y1="150" x2="380" y2="150"/>
+<line id="Intersection_3-9324_TO_9324" class="linedefault" x1="380" y1="150" x2="380" y2="170"/>
+<line id="Intersection_3-9324_TO_Door_3-4" class="linedefault" x1="380" y1="150" x2="410" y2="150"/>
+
+<line id="Door_3-5_TO_Intersection_Elevator_3-3" class="linedefault" x1="120" y1="335" x2="120" y2="425"/>
+<line id="Intersection_Elevator_3-3_TO_Elevator_3-3" class="linedefault" x1="120" y1="425" x2="70" y2="425"/>
+<line id="Intersection_Elevator_3-3_TO_Intersection_Stairs_3-3" class="linedefault" x1="120" y1="425" x2="120" y2="495"/>
+<line id="Intersection_Stairs_3-3_TO_Stairs_3-3" class="linedefault" x1="120" y1="495" x2="70" y2="495"/>
+<line id="Intersection_Stairs_3-3_TO_Intersection_3-2" class="linedefault" x1="120" y1="495" x2="120" y2="540"/>
+<line id="Intersection_3-2_TO_Intersection_3-9310" class="linedefault" x1="120" y1="540" x2="120" y2="560"/>
+<line id="Intersection_3-9310_TO_9310" class="linedefault" x1="120" y1="560" x2="100" y2="560"/>
+<line id="Intersection_3-9310_TO_Intersection_3-9309" class="linedefault" x1="120" y1="560" x2="120" y2="605"/>
+<line id="Intersection_3-9309_TO_9309" class="linedefault" x1="120" y1="605" x2="120" y2="620"/>
+<line id="Intersection_3-2_TO_Intersection_Toilet_Men_3-2" class="linedefault" x1="120" y1="540" x2="300" y2="540"/>
+<line id="Intersection_Toilet_Men_3-2_TO_Toilet_Men_3-2" class="linedefault" x1="300" y1="540" x2="300" y2="560"/>
+<line id="Intersection_Toilet_Men_3-2_TO_Door_3-6" class="linedefault" x1="300" y1="540" x2="320" y2="540"/>
+
+<text x="112" y="20" fill="black" font-family="Verdana" font-size="10">9318</text>
+<text x="228" y="110" fill="black" font-family="Verdana" font-size="10">9319</text>
+<text x="298" y="110" fill="black" font-family="Verdana" font-size="10">9321</text>
+<text x="368" y="197" fill="black" font-family="Verdana" font-size="10">9324</text>
+<text x="327" y="197" fill="black" font-family="Verdana" font-size="10">9322</text>
+<text x="266" y="197" fill="black" font-family="Verdana" font-size="10">9320</text>
+<text x="266" y="197" fill="black" font-family="Verdana" font-size="10">9320</text>
+<text x="190" y="193" fill="black" font-family="Verdana" font-size="10">Womens
+	<tspan x="190" y="203">Toilets</tspan>
+</text>
+<text x="175" y="225" fill="black" font-family="Verdana" font-size="10">Disabled
+	<tspan x="175" y="235">Toilets</tspan>
+</text>
+<text x="160" y="250" fill="black" font-family="Verdana" font-size="10">9316</text>
+<text x="190" y="298" fill="black" font-family="Verdana" font-size="10">9314</text>
+<text x="50" y="265" fill="black" font-family="Verdana" font-size="10">9315</text>
+<text x="430" y="150" fill="black" font-family="Verdana" font-size="10">Door 3-4</text>
+<text x="98" y="322" fill="black" font-family="Verdana" font-size="10">Door 3-5</text>
+<text x="20" y="428" fill="black" font-family="Verdana" font-size="10">Elevator 3-3</text>
+<text x="30" y="500" fill="black" font-family="Verdana" font-size="10">Stairs 3-3</text>
+<text x="55" y="564" fill="black" font-family="Verdana" font-size="10">9310</text>
+<text x="106" y="648" fill="black" font-family="Verdana" font-size="10">9309</text>
+<text x="340" y="543" fill="black" font-family="Verdana" font-size="10">Door 3-6</text>
+<text x="288" y="588" fill="black" font-family="Verdana" font-size="10">Mens
+	<tspan x="288" y="598">Toilets</tspan>
+</text>
+</svg>

@@ -1,0 +1,218 @@
+@-ms-viewport {
+  width: device-width;
+}
+
+html {
+  box-sizing: border-box;
+  -ms-overflow-style: scrollbar;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+.container {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+	background-color: #005eb8;
+}
+
+@media (min-width: 576px) {
+  .container {
+    max-width: 540px;
+  }
+}
+
+@media (min-width: 768px) {
+  .container {
+    max-width: 720px;
+  }
+}
+
+@media (min-width: 992px) {
+  .container {
+    max-width: 960px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1140px;
+  }
+}
+
+.container-fluid {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+html {
+	height: 100%;
+}
+body {
+	font-family : "Arial", "helvatica", sans-serif;
+	padding:0;
+	margin:0;
+	width: 100%;
+	background-color: #005eb8;
+	font-size: 25px;
+}
+/*.container {
+
+	display: flex;
+	flex-direction: column;
+	align-content: center;
+	justify-content: flex-start;
+	margin-bottom: 25px;
+	margin:10px auto;
+}*/
+header {
+	width:85%;
+	padding: 20px;
+	margin: 10px;
+	background-color: #005eb8;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+header>img {
+	width: 60%;
+	height: 18%;
+}
+.headerText {
+	width: 40%;
+	height:18%;
+	text-align: center;
+	color: #fff;
+}
+
+form {
+	display: inline;
+}
+
+input[type=text] {
+	padding: 8px 20px;
+	float:left;
+	height: 30%;
+	width: 50%;
+}
+input[type=submit] {
+	width: 32%;
+	height: 80%;
+	background-color:#fff;
+	border: none;
+	font-size: 15px;
+	color: #005eb8;
+	float:right;
+}
+h1 {
+	font-size: 80%;
+}
+h2 {
+	text-align: center;
+	color: #005eb8;
+	font-size: 10px;
+	padding: 0px;
+}
+p {
+	font-size: 60%;
+}
+input {
+	height: 24px;
+	width: 128px;
+	-webkit- appearance: textfield;
+	-moz- appearance: textfield;
+	background-color: white;
+	border: 1px solid darkgrey;
+	box-shadow: 1px 1px 1px 0 lightgrey inset;
+	font-family : "Arial", sans-serif;
+	resize: none;
+}
+select {
+	height: 24px;
+	width: 128px;
+	-webkit- appearance: textfield;
+	-moz- appearance: textfield;
+	background-color: white;
+	border: 1px solid darkgrey;
+	box-shadow: 1px 1px 1px 0 lightgrey inset;
+	font-family : "Arial", sans-serif;
+	resize: none;
+}
+.dropDown {
+	text-align: center;
+}
+.button {
+	position: relative;
+	width: 80%;
+	height: 10%;
+	background-color:#005eb8;
+	font-size: 20px;
+	color: #fff;
+}
+/*.box  {
+	padding: 10px;
+	height: 30%;
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #ffffff;
+	text-align: center;
+}*/
+/*.col-sm-4{
+	padding: 10px;
+	height: 30%;
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #ffffff;
+	text-align: center;
+}*/
+
+input[type=checkbox] {
+	width: 20px;
+	height: 20px;
+	text-align: center;
+}
+#dropdownboxstart {
+	min-width: 90%;
+	text-align: center;
+	font-size: 15px;
+	height: auto;
+}
+#dropdownboxend {
+	min-width: 90%;
+	text-align: center;
+	font-size: 15px;
+	height: auto;
+}
+
+/*#inputbox
+{
+	height: 16px;
+	width: 128px;
+	-webkit- appearance: textfield;
+	-moz- appearance: textfield;
+	background-color: white;
+	border: 1px solid darkgrey;
+	box-shadow: 1px 1px 1px 0 lightgrey inset;
+	font-family : "Arial", sans-serif;
+	resize: none;
+}

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 700" style="enable-background:new 0 0 500 700;" xml:space="preserve">
+<style type="text/css">
+	.border{fill:none;stroke:#000000;stroke-width:3;}
+	.room{fill:#0000FF;stroke:#000000;stroke-width:3;}
+	.firstaid{fill:#FFC0CB;stroke:#000000;stroke-width:3;}
+	.toilet{fill:#FFFF00;stroke:#000000;stroke-width:3;}
+	.doorway{fill:#800080;stroke:#000000;stroke-width:3;}
+	.blocked{fill:#808080;stroke:#000000;stroke-width:3;}
+	.stairs{fill:#FF0000;stroke:#000000;stroke-width:3;}
+	.elevator{fill:#008000;stroke:#000000;stroke-width:3;}
+	.linedefault{fill:none;stroke:#FF0000;stroke-width:5;stroke-opacity:0;}
+	.linevisable{fill:none;stroke:#FF0000;stroke-width:5;stroke-opacity:1;}
+</style>
+<polyline class="border" points="120,30 180,30 180,210 240,210 240,270 180,270 180,330 210,330 210,360 270,360 270,420 180,420
+	180,510 120,510 120,495 90,480 90,420 120,420 120,30 "/>
+<rect id="Room_G-9016" x="140" y="25" class="room" width="20" height="10"/>
+<rect id="G-First_Aid" x="175" y="60" class="firstaid" width="10" height="20"/>
+<rect id="Room_G-9020" x="175" y="90" class="room" width="10" height="20"/>
+<rect id="Room_G-9012" x="175" y="160" class="room" width="10" height="20"/>
+<rect id="Room_G-9009" x="200" y="205" class="toilet" width="20" height="10"/>
+<rect id="Room_G-9008" x="235" y="230" class="toilet" width="10" height="20"/>
+<rect id="Room_G-9007" x="200" y="265" class="toilet" width="20" height="10"/>
+<rect id="Toilet_Women_G-2" x="205" y="335" class="toilet" width="10" height="20"/>
+<rect id="Door_G-1" x="265" y="365" class="doorway" width="10" height="50"/>
+<rect id="Toilet_Men_G-2" x="220" y="415" class="toilet" width="20" height="10"/>
+<rect id="Room_G-9004" x="175" y="430" class="room" width="10" height="20"/>
+<rect id="Room_G-9004a" x="175" y="480" class="blocked" width="10" height="20"/>
+<rect id="Room_G-9005" x="125" y="505" class="doorway" width="50" height="10"/>
+<rect id="Room_G-9006" x="85" y="425" class="doorway" width="10" height="50"/>
+<rect id="Stairs_G-3" x="115" y="365" class="stairs" width="10" height="50"/>
+<rect id="Elevator_G-3" x="115" y="310" class="elevator" width="10" height="50"/>
+<rect id="Room_G-9010" x="115" y="240" class="blocked" width="10" height="20"/>
+<rect id="Room_G-9011" x="115" y="200" class="room" width="10" height="20"/>
+<rect id="Room_G-9015" x="115" y="50" class="blocked" width="10" height="20"/>
+<line id="Node_G-9016_TO_Room_G-9016" class="linedefault" x1="150" y1="50" x2="150" y2="35"/>
+<line id="Node_G-9016_TO_Node_G-9017" class="linedefault" x1="150" y1="50" x2="150" y2="70"/>
+<line id="Node_G-9017_TO_Room_G-9017" class="linedefault" x1="150" y1="70" x2="175" y2="70"/>
+<line id="Node_G-9017_TO_Node_G-9020" class="linedefault" x1="150" y1="70" x2="150" y2="100"/>
+<line id="Node_G-9020_TO_Room_G-9020" class="linedefault" x1="150" y1="100" x2="175" y2="100"/>
+<line id="Node_G-9020_TO_Node_G-9012" class="linedefault" x1="150" y1="100" x2="150" y2="170"/>
+<line id="Node_G-9012_TO_Door_G-9012" class="linedefault" x1="150" y1="170" x2="175" y2="170"/>
+<line id="Node_G-9012_TO_Node_G-9011" class="linedefault" x1="150" y1="170" x2="150" y2="210"/>
+<line id="Node_G-9011_TO_Room_G-9011" class="linedefault" x1="150" y1="210" x2="125" y2="210"/>
+<line id="Node_G-9011_TO_Node_G_9009a" class="linedefault" x1="150" y1="210" x2="150" y2="225"/>
+<line id="Node_G-9009a_TO_Node_G-9009b" class="linedefault" x1="150" y1="225" x2="210" y2="225"/>
+<line id="Node_G-9009b_TO_Room_G-9009" class="linedefault" x1="210" y1="225" x2="210" y2="215"/>
+<line id="Node_G-9009a_TO_Node_G-9008a" class="linedefault" x1="150" y1="225" x2="150" y2="240"/>
+<line id="Node_G-9008a_TO_Node_G-9008b" class="linedefault" x1="150" y1="240" x2="210" y2="240"/>
+<line id="Node_G_9008a_TO_Room_G-9008" class="linedefault" x1="150" y1="240" x2="235" y2="240"/>
+<line id="Node_G-9008a_TO_Node_G-9007a" class="linedefault" x1="150" y1="240" x2="150" y2="255"/>
+<line id="Node_G-9007a_TO_Node_G-9007b" class="linedefault" x1="150" y1="255" x2="210" y2="255"/>
+<line id="Node_G-9007b_TO_Room_G-9007" class="linedefault" x1="210" y1="255" x2="210" y2="265"/>
+<line id="Node_G-9007a_TO_Node_Elevator_G-3" class="linedefault" x1="150" y1="255" x2="150" y2="335"/>
+<line id="Node_Elevator_G-3_TO_Elevator_G-3" class="linedefault" x1="150" y1="335" x2="125" y2="335"/>
+<line id="Node_Elevator_G-3_TO_Node_Toilet_Women_G-2" class="linedefault" x1="150" y1="335" x2="150" y2="345"/>
+<line id="Node_Toilet_Women_G-2_TO_Toilet_Women_G-2" class="linedefault" x1="150" y1="345" x2="205" y2="345"/>
+<line id="Node_Toilet_Women_G-2_TO_Node_Stairs_G-3" class="linedefault" x1="150" y1="345" x2="150" y2="390"/>
+<line id="Node_Stairs_G-3_TO_Stairs_G-3" class="linedefault" x1="150" y1="390" x2="100" y2="390"/>
+<line id="Node_Stairs_G-3_TO_Node_Toilet_Men_G-2" class="linedefault" x1="150" y1="390" x2="230" y2="390"/>
+<line id="Node_Toilet_Men_G-2_TO_Toilet_Men_G-2" class="linedefault" x1="230" y1="390" x2="230" y2="415"/>
+<line id="Node_Toilet_Men_G-2_TO_Door_G-1" class="linedefault" x1="150" y1="390" x2="265" y2="390"/>
+<line id="Node_Stairs_G-3_TO_Node_9004" class="linedefault" x1="150" y1="390" x2="150" y2="440"/>
+<line id="Node_9004_TO_Room_9004" class="linedefault" x1="150" y1="440" x2="175" y2="440"/>
+<line id="Node_9004_TO_Node_9006" class="linedefault" x1="150" y1="440" x2="150" y2="450"/>
+<line id="Node_9006_TO_Room_9006" class="linedefault" x1="150" y1="450" x2="95" y2="450"/>
+<line id="Node_9006_TO_Node_9005" class="linedefault" x1="150" y1="450" x2="150" y2="490"/>
+<line id="Node_9005_TO_Room_9005" class="linedefault" x1="150" y1="450" x2="150" y2="505"/>
+</svg>
